@@ -1,6 +1,6 @@
 # Student Management System
 **Created by:** Naina Jadhav  
-**Date:** April 2025  
+**Date:** June 2025  
 
 ---
 
